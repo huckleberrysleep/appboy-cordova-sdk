@@ -35,7 +35,7 @@
 
   <!-- ios -->
   <platform name="ios">
-    <framework src="Appboy-iOS-SDK" type="podspec" spec="~> 4.3.2" />
+    <framework src="Appboy-iOS-SDK" type="podspec" spec="~> 4.3.4" />
 
     <!-- frameworks -->
     <framework src="libz.dylib" />
